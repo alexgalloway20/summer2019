@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
+#include <mysql/mysql.h>
 
 #define MAXADDRLEN 256
 #define BUFLEN 128
